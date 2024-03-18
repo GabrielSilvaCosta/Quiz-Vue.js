@@ -1,4 +1,5 @@
 # quiz
+Este projeto consiste em um aplicativo de quiz desenvolvido em Vue.js. Os usuários podem responder uma série de perguntas e receber um resultado com base em suas respostas. O aplicativo apresenta uma interface intuitiva, onde as perguntas são exibidas uma de cada vez, permitindo que o usuário avance progressivamente. Ao final do quiz, o usuário recebe um feedback com base em seu desempenho e tem a opção de reiniciar o quiz.
 
 This template should help get you started developing with Vue 3 in Vite.
 
